@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">UTEQ</string>
+    <string name="app_name" translatable="false">UTEQ</string>
+    <string name="add_fab">Add</string>
 </resources>
